@@ -1,2 +1,3 @@
 "Hello. This is my text file" 
 "Editing the file in github"
+"Making changes in the file through cmd to check if it reflects in github" 
